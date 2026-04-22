@@ -1,0 +1,132 @@
+{
+  "params": {
+    "n": 120,
+    "instances": 20,
+    "ratio": 4.26
+  },
+  "overall_with": 7.162407911329395,
+  "overall_without": 9.560364155173586,
+  "overall_reduction_pct": 25.08226888561078,
+  "per_instance": [
+    {
+      "seed": 2000,
+      "with_min_avg_len": 7.091984231274639,
+      "without_min_avg_len": 9.20935960591133,
+      "reduction_pct": 22.99155929667014
+    },
+    {
+      "seed": 2001,
+      "with_min_avg_len": 8.188,
+      "without_min_avg_len": 10.296398891966758,
+      "reduction_pct": 20.477051385525947
+    },
+    {
+      "seed": 2002,
+      "with_min_avg_len": 8.774928774928775,
+      "without_min_avg_len": 10.567213114754098,
+      "reduction_pct": 16.960804332817993
+    },
+    {
+      "seed": 2003,
+      "with_min_avg_len": 8.126805778491171,
+      "without_min_avg_len": 9.804532577903682,
+      "reduction_pct": 17.111746899526626
+    },
+    {
+      "seed": 2004,
+      "with_min_avg_len": 6.79559748427673,
+      "without_min_avg_len": 9.465465465465465,
+      "reduction_pct": 28.20640982664495
+    },
+    {
+      "seed": 2005,
+      "with_min_avg_len": 6.686936936936937,
+      "without_min_avg_len": 9.3039934800326,
+      "reduction_pct": 28.1283144567132
+    },
+    {
+      "seed": 2006,
+      "with_min_avg_len": 7.387096774193548,
+      "without_min_avg_len": 10.28374070138151,
+      "reduction_pct": 28.16722057955845
+    },
+    {
+      "seed": 2007,
+      "with_min_avg_len": 7.069066147859922,
+      "without_min_avg_len": 9.066359447004608,
+      "reduction_pct": 22.02971667756414
+    },
+    {
+      "seed": 2008,
+      "with_min_avg_len": 6.665314401622718,
+      "without_min_avg_len": 9.258342303552206,
+      "reduction_pct": 28.007474955150503
+    },
+    {
+      "seed": 2009,
+      "with_min_avg_len": 6.786480686695279,
+      "without_min_avg_len": 9.264,
+      "reduction_pct": 26.743515903548364
+    },
+    {
+      "seed": 2010,
+      "with_min_avg_len": 7.72934131736527,
+      "without_min_avg_len": 9.845843422114609,
+      "reduction_pct": 21.49640222792385
+    },
+    {
+      "seed": 2011,
+      "with_min_avg_len": 6.555667001003009,
+      "without_min_avg_len": 9.627484874675886,
+      "reduction_pct": 31.906753567102243
+    },
+    {
+      "seed": 2012,
+      "with_min_avg_len": 8.357664233576642,
+      "without_min_avg_len": 9.6,
+      "reduction_pct": 12.940997566909973
+    },
+    {
+      "seed": 2013,
+      "with_min_avg_len": 9.114754098360656,
+      "without_min_avg_len": 10.61111111111111,
+      "reduction_pct": 14.101793837438837
+    },
+    {
+      "seed": 2014,
+      "with_min_avg_len": 6.907488986784141,
+      "without_min_avg_len": 9.532646048109966,
+      "reduction_pct": 27.538597867549196
+    },
+    {
+      "seed": 2015,
+      "with_min_avg_len": 7.385906040268456,
+      "without_min_avg_len": 9.419558359621451,
+      "reduction_pct": 21.58967800518752
+    },
+    {
+      "seed": 2016,
+      "with_min_avg_len": 6.88421052631579,
+      "without_min_avg_len": 10.020408163265307,
+      "reduction_pct": 31.29810269053489
+    },
+    {
+      "seed": 2017,
+      "with_min_avg_len": 6.678763440860215,
+      "without_min_avg_len": 8.671717171717171,
+      "reduction_pct": 22.98222706521126
+    },
+    {
+      "seed": 2018,
+      "with_min_avg_len": 8.42134831460674,
+      "without_min_avg_len": 10.201612903225806,
+      "reduction_pct": 17.450814939823246
+    },
+    {
+      "seed": 2019,
+      "with_min_avg_len": 8.162303664921465,
+      "without_min_avg_len": 10.263657957244655,
+      "reduction_pct": 20.473736567184986
+    }
+  ]
+}

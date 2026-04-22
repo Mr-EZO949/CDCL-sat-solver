@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "satsolver"
+version = "0.1.0"
+description = "A CDCL SAT solver with classic NP-problem encoders."
+requires-python = ">=3.10"
+
+[project.scripts]
+satsolver = "satsolver.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["satsolver*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+web/satsolver.tar
+.venv/
+.env
+.vscode/
+.idea/
+
