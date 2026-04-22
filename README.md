@@ -2,6 +2,8 @@
 
 > Started in 2025 as a final project for a Computational Logic course; polished and published now.
 
+**[Live demo →](https://mr-ezo949.github.io/CDCL-sat-solver/)** (runs in your browser via Pyodide)
+
 A CDCL SAT solver in pure Python with encoders for classic NP problems,
 a DRAT proof producer, an incremental API, a preprocessor, and a
 deletion-based MUS extractor.
